@@ -64,6 +64,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Task Manager Screenshot] <img width="1862" height="886" alt="Screenshot 2025-10-18 164546" src="https://github.com/user-attachments/assets/465fec20-b626-4857-a31f-22831c3085d9" />
+
+
 
 ### `npm run build` fails to minify
 
